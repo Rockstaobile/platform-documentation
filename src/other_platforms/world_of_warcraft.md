@@ -1,4 +1,5 @@
----
+-adventure of game
+an expert on the adventure--
 id: world_of_warcraft
 name: Coming to Core from World of Warcraft
 title: Coming to Core from World of Warcraft
